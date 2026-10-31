@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Keep datasets out of the public repository until redistribution terms are checked
+*_dataset*.csv
+rainfall_features.csv
+
+# Local logs
+*.log
