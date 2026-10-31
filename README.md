@@ -69,6 +69,20 @@ Water-level observations are associated with the Central Water Commission (CWC).
 
 Check the relevant data-use and redistribution terms before publishing source datasets or derived datasets. Cite the original providers when using their data.
 
+## Dashboard Preview
+
+### Main Dashboard
+![Main Dashboard](assets/Screenshot2026-10-31154112.png)
+
+### Model Predictions
+![Model Predictions](assets/Screenshot2026-10-31154130.png)
+
+### Model Performance
+![Model Performance](assets/Screenshot2026-10-31154144.png)
+
+### Historical Analysis
+![Historical Analysis](assets/Screenshot2026-10-31154216.png)
+
 ## Author
 
 Krish Deep Dhanjal
